@@ -7,5 +7,5 @@ Programming
 Thrifting
 ## Cool sites
 ### My Games
-[The Best Game of All Time](https://monkeyfanatic.itch.io/the-best-game-of-all-time)
+[The Best Game of All Time](https://monkeyfanatic.itch.io/the-best-game-of-all-time) \
 [Franti-Planter](https://monkeyfanatic.itch.io/franti-planter)
