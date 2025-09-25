@@ -4,7 +4,7 @@
 ## Interests
 Rock Climbing\
 Programming\
-Thrifting\
+Thrifting
 ## Cool sites
 ### My Games
 1. [The Best Game of All Time](https://monkeyfanatic.itch.io/the-best-game-of-all-time) \
