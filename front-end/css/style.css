@@ -38,6 +38,16 @@ nav {
     background-color: #1b1b1b;
     border: 0;
 }
+.header-link {
+    color: powderblue;
+    font-family: "Courier New";
+    font-weight: bold;
+    text-shadow: midnightblue 1px 1px;
+    font-size: xx-large;
+}
+.header-link:hover {
+    color: whitesmoke;
+}
 .project-container > img {
     width: 41vw;
     border-radius: 10px;
@@ -55,6 +65,4 @@ p {
     text-shadow: midnightblue .04rem .04rem;
     font-size: large;
 }
-.project-container:hover {
-    border: white 5px solid;
-}
+
